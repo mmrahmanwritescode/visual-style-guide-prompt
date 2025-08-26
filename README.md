@@ -1,7 +1,9 @@
 # Visual style guide prompt for Sign-In Page Template
 
 ## Overview
-This project serves as a practical example of how a detailed visual style guide can be leveraged for precise design implementation with effective prompt writing for AI-assisted design. So, once this prompt is run through a generative AI ( gemini/copilot/claude ) it will spit out this beautifully crafted static template of Sign-In Page using Bootstrap 5.
+This project serves as a practical example of how a detailed visual style guide can be leveraged for precise design implementation with effective prompt writing for creating AI-assisted design. 
+
+So, once this prompt is run through a generative AI ( gemini/copilot/claude ) it will spit out this beautifully crafted static template of Sign-In Page using Bootstrap 5.
 
 ## Features
 -   **Responsive Design**: Optimized for both desktop and mobile views.
