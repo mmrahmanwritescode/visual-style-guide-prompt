@@ -1,8 +1,7 @@
-# visual style guide prompt for Event Hive Sign-In Page Template
+# Visual style guide prompt for Sign-In Page Template
 
 ## Overview
-Welcome to the Event Hive Sign-In Page, a beautifully crafted static template built with Bootstrap 5. 
-This project serves as a practical example of how a detailed visual style guide can be leveraged for precise design implementation and effective prompt writing for AI-assisted design.
+This project serves as a practical example of how a detailed visual style guide can be leveraged for precise design implementation with effective prompt writing for AI-assisted design. So, once this prompt is run through a generative AI ( gemini/copilot/claude ) it will spit out this beautifully crafted static template of Sign-In Page using Bootstrap 5.
 
 ## Features
 -   **Responsive Design**: Optimized for both desktop and mobile views.
@@ -11,18 +10,19 @@ This project serves as a practical example of how a detailed visual style guide 
 -   **Strict Design Adherence**: Developed to precisely match the provided visual specifications.
 
 ## Getting Started & Reusability
-This repository demonstrates the power of a comprehensive visual style guide (`visual_style_guide.md`) in generating highly specific and accurate UI components. You can use the `visual_style_guide.md` as a reference for crafting detailed prompts to create similar sign-in pages or other UI elements with minor tweaks.
+This repository demonstrates the power of a comprehensive visual style guide (`visual_style_guide.md`) in generating highly specific and accurate UI components. 
+
+You can use the `visual_style_guide.md` as a reference for crafting detailed prompts to create similar sign-in pages or other UI elements with minor tweaks.
 
 ## Design Details
 For an in-depth understanding of the design principles, color palette, typography, and component styles, please refer to the [`visual_style_guide.md`](visual_style_guide.md) file.
 
 ## Files
--   `index.html`: The main HTML structure of the sign-in page.
--   `style.css`: Custom CSS for styling and design overrides.
--   `right.png`: Background image used in the hero section.
+-   `signin.png`: The main design png of the sign-in page.
+-   `right.png`: Background image used in the hero section of the sign-in page template.
 -   `visual_style_guide.md`: Comprehensive document detailing the visual design system.
 
-Enjoy exploring the Event Hive Sign-In Page!
+Enjoy exploring the Visual Style Guide Prompt!
 
 ---
 
